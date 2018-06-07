@@ -5,7 +5,7 @@ MAINTAINER Tomaz Zaman <tomaz@codeable.io>
 ENV DEBIAN_FRONTEND noninteractive
 
 ENV WP_ROOT /var/www/wordpress
-ENV WP_VERSION 4.7.5
+ENV WP_VERSION 4.9.6
 ENV WP_SHA1 fbe0ee1d9010265be200fe50b86f341587187302
 ENV WP_DOWNLOAD_URL https://wordpress.org/wordpress-$WP_VERSION.tar.gz
 
